@@ -1,0 +1,21 @@
+{
+  "name": "norway-today",
+  "displayName": "Norway Today",
+  "description": "Netbeans default dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Norway Today",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Norway Today-color-theme.json"
+      }
+    ]
+  }
+}
